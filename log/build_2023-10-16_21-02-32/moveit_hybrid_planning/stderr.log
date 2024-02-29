@@ -1,0 +1,13 @@
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:[m[K In lambda function:
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:255:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kstatus[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  255 |       int [01;35m[Kstatus[m[K;
+      |           [01;35m[K^~~~~~[m[K
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:265:30:[m[K [01;35m[Kwarning: [m[Kcatching polymorphic type ‘[01m[Kclass std::runtime_error[m[K’ by value [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcatch-value=-Wcatch-value=]8;;[m[K]
+  265 |     catch(std::runtime_error [01;35m[Ke[m[K){
+      |                              [01;35m[K^[m[K
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:251:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  251 |   ([01;35m[Kconst std::shared_ptr<goal_change_interfaces::srv::GoalChange::Request> request[m[K,
+      |    [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:252:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  252 |   [01;35m[Kconst std::shared_ptr<goal_change_interfaces::srv::GoalChange::Response> response[m[K) {
+      |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K

@@ -1,0 +1,23 @@
+[0.026s] Invoking command in '/home/colcon_ws/src/moveit2-humble/build/moveit_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/colcon_ws/install/moveit_configs_utils:/home/colcon_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/colcon_ws/src/moveit2-humble/build/moveit_common -- -j16 -l16
+[0.236s] Invoked command in '/home/colcon_ws/src/moveit2-humble/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/colcon_ws/install/moveit_configs_utils:/home/colcon_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/colcon_ws/src/moveit2-humble/build/moveit_common -- -j16 -l16
+[0.275s] Invoking command in '/home/colcon_ws/src/moveit2-humble/build/moveit_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/colcon_ws/install/moveit_configs_utils:/home/colcon_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/colcon_ws/src/moveit2-humble/build/moveit_common
+[0.283s] -- Install configuration: "Debug"
+[0.283s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/ament_index/resource_index/package_run_dependencies/moveit_common
+[0.283s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/ament_index/resource_index/parent_prefix_path/moveit_common
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/environment/ament_prefix_path.sh
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/environment/ament_prefix_path.dsv
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/environment/path.sh
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/environment/path.dsv
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/local_setup.bash
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/local_setup.sh
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/local_setup.zsh
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/local_setup.dsv
+[0.284s] -- Installing: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/package.dsv
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/ament_index/resource_index/packages/moveit_common
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/cmake/moveit_common-extras.cmake
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig.cmake
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig-version.cmake
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/package.xml
+[0.284s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/cmake
+[0.285s] -- Up-to-date: /home/colcon_ws/src/moveit2-humble/install/moveit_common/share/moveit_common/cmake/moveit_package.cmake
+[0.286s] Invoked command in '/home/colcon_ws/src/moveit2-humble/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/colcon_ws/install/moveit_configs_utils:/home/colcon_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/colcon_ws/src/moveit2-humble/build/moveit_common

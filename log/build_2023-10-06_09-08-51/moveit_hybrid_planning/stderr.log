@@ -1,0 +1,8 @@
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/trajectory_operator_plugins/src/simple_sampler.cpp:[m[K In member function ‘[01m[Kgoal_change_interfaces::srv::GoalChange::Response moveit::hybrid_planning::SimpleSampler::adaptNewGoal(const Pose&)[m[K’:
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/trajectory_operator_plugins/src/simple_sampler.cpp:70:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Knew_goal[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   70 | SimpleSampler::adaptNewGoal([01;35m[Kconst geometry_msgs::msg::Pose& new_goal[m[K)
+      |                             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:[m[K In lambda function:
+[01m[K/home/colcon_ws/src/moveit2-humble/moveit_ros/hybrid_planning/local_planner/local_planner_component/src/local_planner_component.cpp:237:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  237 |   [01;35m[Kconst std::shared_ptr<goal_change_interfaces::srv::GoalChange::Response> response[m[K) {
+      |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
